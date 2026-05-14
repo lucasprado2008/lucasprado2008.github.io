@@ -1,6 +1,5 @@
 # Portfolio
-
-Personal developer portfolio built to showcase projects, skills, and development studies.
+Personal portfolio of software development, demonstrating projects, technical skills, and continuous growth in the field.
 
 ---
 
@@ -19,11 +18,8 @@ Personal developer portfolio built to showcase projects, skills, and development
 
 ---
 
-## Goals
-This project was created to improve:
-- Responsive design
-- UI organization
-- Clean code practices
+## Purpose
+This project represents my personal space to share projects, experiments, and continuous growth as a developer.
 
 ---
 
@@ -41,10 +37,10 @@ This project was created to improve:
 ---
 
 ## Status
-In development
+Currently in development.
 
 ---
 
 ## Author
 
-Developed by Lucas Prado
+Developed by Lucas Prado.
