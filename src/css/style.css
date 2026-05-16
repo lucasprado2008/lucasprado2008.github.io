@@ -1,0 +1,5 @@
+/* GLOBAL */
+@import url(global/global.css);
+
+/* HEADER */
+@import url(sections/header.css);
